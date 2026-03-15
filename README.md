@@ -1,4 +1,4 @@
-# Unsupervised-Anomaly-Detection-on-MVTecAD
+# Unsupervised-Anomaly-Detection-on-MVTecAD - This repo is forked from Shiva Arabi
 This repository implements an unsupervised anomaly detection pipeline inspired by PatchCore using the MVTec AD (Tile class) dataset in google colab environment. The goal is to detect and localize surface-level defects (e.g., cracks, glue strips, oil, roughness) in industrial tile images using pre-trained deep features.
 
 Link to dataset: https://www.kaggle.com/datasets/ipythonx/mvtec-ad
